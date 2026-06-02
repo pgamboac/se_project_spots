@@ -20,6 +20,17 @@ The way you'll do this at work is by exporting images directly from Figma — we
 
 ## Project Pitch Video
 
+## Description
+
+This project is a photo-sharing page where users can add and remove photos, like photos from other users and make adjustments to their profiles.
+
 Check out [this video](https://drive.google.com/file/d/11GCIrxtkurXYqYv2S1wRyiGpwQ6pK8Z_/view?usp=sharing), where I describe my project and some challenges I faced while building it.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- BEM methodology
+- Flexbox & Grid
 
 Good luck and have fun!
